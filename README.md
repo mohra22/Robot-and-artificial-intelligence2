@@ -1,1 +1,2 @@
-# Robot-and-artificial-intelligence2
+# Installing the robotic arm package
+[installation commands](https://s-m.com.sa/ros.txt)
